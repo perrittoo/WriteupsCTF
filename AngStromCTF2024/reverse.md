@@ -1,4 +1,4 @@
-#guess_the_flag
+# guess_the_flag
 
 ![image](https://github.com/perrittoo/Writeups/assets/69895129/55cca493-ec92-47d2-b997-a2a8251a1af8)
 
@@ -16,7 +16,7 @@ Nếu flag đúng thì in ra correct, flag nhập vào được xor với 1 và 
 
 `ctf{committed_to_the_least_significant_bit}`
 
-#switcher
+# switcher
 
 ![image](https://github.com/perrittoo/Writeups/assets/69895129/5976a5ae-366c-426d-a4d5-55565b423d7e)
 
