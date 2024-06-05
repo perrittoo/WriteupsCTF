@@ -1,3 +1,6 @@
+1 số ảnh bị lỗi khi sync với github. Đây là link [HackMD](https://hackmd.io/@perryto/H1qd7anN0) của mình.
+
+
 # Web Cook
 
 ## Preview
