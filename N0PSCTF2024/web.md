@@ -8,6 +8,7 @@ Web chỉ có chức năng nhập username, mình thử nhập admin nhưng khô
 Ở đây cookie của mình đã chuyển thành 1 serial object. Đây có vẻ là 1 challenge về Deserialization cơ bản. Chuyển `isAdmin` thành 1 và mình có flag.
 
 ![image](https://hackmd.io/_uploads/BkkP4p3EA.png)
+
 Flag: `N0PS{y0u_Kn0W_H0w_t0_c00K_n0W}`
 
 # Outsiders
@@ -55,6 +56,7 @@ Hmmm, nếu bị cắt mất các dấu cách, và filter đi các dấu ngoặc
 Khi dấu cách bị cắt mất, nó sẽ còn lại {{7*7}} và không dấu ngoặc nào bị cắt mất cả. 
 
 Lúc đó payload thực thi thành công, số 49 xuất hiện
+
 ![image](https://hackmd.io/_uploads/By3a_TnN0.png)
 
 Detect được SSTI jinja2 
